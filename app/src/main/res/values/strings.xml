@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tubes v5.1</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_user_umkm">UMKM</string>
+    <string name="nav_message">Pesan</string>
+    <string name="nav_profile">Profil</string>
+    <string name="nav_maps">Peta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

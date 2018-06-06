@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mAllType"
+        android:title="Semua Usaha" />
+    <item
+        android:id="@+id/mPertanian"
+        android:title="Pertanian" />
+    <item
+        android:id="@+id/mPerdagangan"
+        android:title="Perdagangan" />
+    <item
+        android:id="@+id/mManufaktur"
+        android:title="Manufaktur" />
+</menu>
